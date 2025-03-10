@@ -5,9 +5,9 @@ This project extracts restaurant menu data from a **Microsoft SQL Server** datab
 ---
 
 ### 1. **Clone the Repository**
-git clone https://github.com/your-repo/case-study-burritos.git
+git clone https://github.com/LucasBoden-da/Case-Study-EP.git
 
-cd case-study-burritos
+cd Case-Study-EP
 
 ---
 
